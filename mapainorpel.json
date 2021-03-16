@@ -17,19 +17,19 @@
         "longitude": -34.8812032
     },
     {
-        "key": "alagoagrande",
+        "key": "pb:alagoagrande",
         "name": "Alagoa Grande",
         "latitude": -7.0387955,
         "longitude": -35.6323606 
     },
     {
-        "key": "bayeux",
+        "key": "pb:bayeux",
         "name": "Bayeux",
         "latitude": -7.1256706,
         "longitude": -34.9313165
     },
     {
-        "key": "cabedelo",
+        "key": "pb:cabedelo",
         "name": "Cabedelo",
         "latitude": -6.9720352,
         "longitude": -34.8331824
