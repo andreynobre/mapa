@@ -1,0 +1,624 @@
+[
+    /* Marcos Inacio */
+    {
+        "key": "miamatriz",
+        "name": "Marcos Inacio Advogados - João Pessoa - Centro",
+        "latitude": -7.125852,
+        "longitude": -34.874630
+    },
+    {
+        "key": "miabancarios",
+        "name": "Marcos Inacio Advogados - João Pessoa - Bancarios",
+        "latitude": -7.1593941,
+        "longitude": -34.8388448
+    },
+    {
+        "key": "miatambia",
+        "name": "Marcos Inacio Advogados - João Pessoa - Tambiá",
+        "latitude": -7.1159244,
+        "longitude": -34.8812032
+    },
+    {
+        "key": "miaalagoagrande",
+        "name": "Marcos Inacio Advogados - Alagoa Grande",
+        "latitude": -7.0387955,
+        "longitude": -35.6323606 
+    },
+    {
+        "key": "miabayeux",
+        "name": "Marcos Inacio Advogados - Bayeux",
+        "latitude": -7.1256706,
+        "longitude": -34.9313165
+    },
+    {
+        "key": "cabedelo",
+        "name": "Marcos Inacio Advogados - Cabedelo",
+        "latitude": -6.9720352,
+        "longitude": -34.8331824
+    },
+    {
+        "key": "miacajazeiras",
+        "name": "Marcos Inacio Advogados - Cajazeiras",
+        "latitude": -6.887422,
+        "longitude": -38.555885
+    },
+    {
+        "key": "miacampina",
+        "name": "Marcos Inacio Advogados - Campina Grande",
+        "latitude": -7.232341,
+        "longitude": -35.885950
+    },
+    {
+        "key": "miamamanguape",
+        "name": "Marcos Inacio Advogados - Mamanguape",
+        "latitude": -6.835717,
+        "longitude": -35.122340
+    },
+    {
+        "key": "miaguarabira",
+        "name": "Marcos Inacio Advogados - Guarabira",
+        "latitude": -6.849291,
+        "longitude": -35.494207
+    },
+    {
+        "key": "miamonteiro",
+        "name": "Marcos Inacio Advogados - Monteiro",
+        "latitude": -7.893850,
+        "longitude": -37.129002
+    },
+    {
+        "key": "miapatos",
+        "name": "Marcos Inacio Advogados - Patos",
+        "latitude": -7.029561,
+        "longitude": -37.275807
+    },
+    {
+        "key": "miaprincesa",
+        "name": "Marcos Inacio Advogados - Princesa Isabel",
+        "latitude": -7.736422,
+        "longitude": -37.993805
+    },
+    {
+        "key": "miariotinto",
+        "name": "Marcos Inacio Advogados - Rio Tinto",
+        "latitude": -6.804906,
+        "longitude": -35.078784
+    },
+    {
+        "key": "miasape",
+        "name": "Marcos Inacio Advogados - Sapé",
+        "latitude": -7.093291,
+        "longitude": -35.232947
+    },
+    {
+        "key": "miasolanea",
+        "name": "Marcos Inacio Advogados - Solânea",
+        "latitude": -6.757636,
+        "longitude": -35.656731
+    },
+    {
+        "key": "miasousa",
+        "name": "Marcos Inacio Advogados - Sousa",
+        "latitude": -6.758429,
+        "longitude": -38.228808
+    },
+    {
+        "key": "miario",
+        "name": "Marcos Inacio Advogados - Rio de Janeiro",
+        "latitude": -22.906990,
+        "longitude": -43.177469
+    },
+    {
+        "key": "miabrasilia",
+        "name": "Marcos Inacio Advogados - Brasilia",
+        "latitude": -15.7908574,
+        "longitude": -47.8852319
+    },
+    {
+        "key": "miaassu",
+        "name": "Marcos Inacio Advogados - Assú",
+        "latitude": -5.576094,
+        "longitude": -36.9166136
+    },
+    {
+        "key": "miacaico",
+        "name": "Marcos Inacio Advogados - Caicó",
+        "latitude": -6.464148,
+        "longitude": -37.092538
+    },
+    {
+        "key": "miacanguaretama",
+        "name": "Marcos Inacio Advogados - Canguaretama",
+        "latitude": -6.314840,
+        "longitude": -35.074354
+    },
+    {
+        "key": "miacurrais",
+        "name": "Marcos Inacio Advogados - Currais novos",
+        "latitude": -6.262068,
+        "longitude": -36.517997
+    },
+    {
+        "key": "miajoaocamara",
+        "name": "Marcos Inacio Advogados - João Câmara",
+        "latitude": -5.544538,
+        "longitude": -35.813812
+    },
+    {
+        "key": "miamacau",
+        "name": "Marcos Inacio Advogados - Macau",
+        "latitude": -5.116710,
+        "longitude": -36.631496
+    },
+    {
+        "key": "miamossoro",
+        "name": "Marcos Inacio Advogados - Mossoró",
+        "latitude": -5.187379,
+        "longitude": -37.342026
+    },
+    {
+        "key": "mianatal",
+        "name": "Marcos Inacio Advogados - Natal",
+        "latitude": -5.825762,
+        "longitude": -35.224632
+    },
+    {
+        "key": "miapaudosferros",
+        "name": "Marcos Inacio Advogados - Pau de Ferros",
+        "latitude": -6.132668,
+        "longitude": -38.206657
+    },
+    {
+        "key": "miasantacruz",
+        "name": "Marcos Inacio Advogados - Santa Cruz",
+        "latitude": -6.228875,
+        "longitude": -36.019887
+    },
+    {
+        "key": "miasaomiguel",
+        "name": "Marcos Inacio Advogados - São Miguel",
+        "latitude": -6.211067,
+        "longitude": -38.497264
+    },
+    {
+        "key": "miamaceio",
+        "name": "Marcos Inacio Advogados - Maceió",
+        "latitude": -9.645862,
+        "longitude": -35.711041
+    },
+    {
+        "key": "miacampo formoso",
+        "name": "Marcos Inacio Advogados - Campo Formoso",
+        "latitude": -10.507816,
+        "longitude": -40.320833
+    },
+    {
+        "key": "miafortaleza",
+        "name": "Marcos Inacio Advogados - Fortaleza",
+        "latitude": -3.736728,
+        "longitude": -38.510897
+    },
+    {
+        "key": "miaiguatu",
+        "name": "Marcos Inacio Advogados - Iguatu",
+        "latitude": -3.736728,
+        "longitude": -38.510897
+    },
+    {
+        "key": "miajuazeiro",
+        "name": "Marcos Inacio Advogados - Juazeiro do Norte",
+        "latitude": -7.201744,
+        "longitude": -39.316076
+    },
+    {
+        "key": "mialimoeiro",
+        "name": "Marcos Inacio Advogados - Limoerio do Norte",
+        "latitude": -5.141699,
+        "longitude": -38.097370
+    },
+    {
+        "key": "miaquixada",
+        "name": "Marcos Inacio Advogados - Quixada",
+        "latitude": -4.969772,
+        "longitude": -39.013617
+    },
+    {
+        "key": "miasobral",
+        "name": "Marcos Inacio Advogados - Sobral",
+        "latitude": -3.691864,
+        "longitude": -40.352791
+    },
+    {
+        "key": "miasaoluiz",
+        "name": "Marcos Inacio Advogados - São Luiz",
+        "latitude": -2.508884,
+        "longitude": -44.299667
+    },
+    {
+        "key": "miaarcoverde",
+        "name": "Marcos Inacio Advogados - Arco Verde",
+        "latitude": -8.418899,
+        "longitude": -37.059419
+    },
+    {
+        "key": "miacabo",
+        "name": "Marcos Inacio Advogados - Cabo de Santo Agostinho",
+        "latitude": -8.284276,
+        "longitude": -35.033998
+    },
+    {
+        "key": "miacarpina",
+        "name": "Marcos Inacio Advogados - Carpina",
+        "latitude": -7.844496,
+        "longitude": -35.254716
+    },
+    {
+        "key": "miacaruaru",
+        "name": "Marcos Inacio Advogados - Caruaru",
+        "latitude": -8.280471,
+        "longitude": -35.974503
+    },
+    {
+        "key": "miagaranhuns",
+        "name": "Marcos Inacio Advogados - Garanhuns",
+        "latitude": -8.889055,
+        "longitude": -36.495381
+    },
+    {
+        "key": "miagoiana",
+        "name": "Marcos Inacio Advogados - Goiana",
+        "latitude": -7.557670,
+        "longitude": -34.999904
+    },
+    {
+        "key": "miajaboatao",
+        "name": "Marcos Inacio Advogados - Jaboatão dos Guararapes",
+        "latitude": -8.113141,
+        "longitude": -35.020044
+    },
+    {
+        "key": "miaouricuri",
+        "name": "Marcos Inacio Advogados - ",
+        "latitude": -7.886151,
+        "longitude": -40.083234
+    },
+    {
+        "key": "miapalmares",
+        "name": "Marcos Inacio Advogados - Palmares",
+        "latitude": -8.686893,
+        "longitude": -35.595839
+    },
+    {
+        "key": "miapetrolina",
+        "name": "Marcos Inacio Advogados - Petrolina",
+        "latitude": -9.397355,
+        "longitude": -40.498842
+    },
+    {
+        "key": "miarecife",
+        "name": "Marcos Inacio Advogados - Recife",
+        "latitude": -8.052972,
+        "longitude": -34.883538
+    },
+    {
+        "key": "miasalgueiro",
+        "name": "Marcos Inacio Advogados - Salgueiro",
+        "latitude": -8.686893,
+        "longitude": -35.595839
+    },
+    {
+        "key": "miaserra",
+        "name": "Marcos Inacio Advogados - Serra Talhada",
+        "latitude": -7.9933769,
+        "longitude": -38.2982133
+    },
+    {
+        "key": "miacuiaba",
+        "name": "Marcos Inacio Advogados - Cuiabá",
+        "latitude": -15.572062,
+        "longitude": -56.078402
+    },
+    {
+        "key": "miasaopaulo",
+        "name": "Marcos Inacio Advogados - São Paulo",
+        "latitude": -23.5593643,
+        "longitude": -46.6583821
+    },
+    /*Auto Club*/
+    {
+        "key" : "fgautoclubmatriz",
+        "name" : "Fortigate - Auto Club Matriz",
+        "latitude" : -7.117312568038425, 
+        "longitude" : -34.844354176193036
+    },
+    {
+        "key" : "fgautoclubsul",
+        "name" : "Fortigate - Auto Club Sul",
+        "latitude" : -7.161480367742539,
+        "longitude" : -34.8194169716436
+    },
+    {
+        "key" : "fgautoclubcge",
+        "name" : "Fortigate - Auto Club CGE",
+        "latitude" : ,
+        "longitude" : 
+    },
+    /*Novo Rumo*/
+    {
+        "key" : "matriz",
+        "name" : "Novo Rumo - Matriz",
+        "latitude" : -7.122414,
+        "longitude" : -34.878437
+  },
+  {
+        "key" : "mangabeira",
+        "name" : "Novo Rumo - Mangabeira",
+        "latitude" : -7.157525177564093,
+        "longitude" : -34.839962899398074
+  },
+  {
+        "key" : "cabedelo",
+        "name" : "Novo Rumo - Cabedelo",
+        "latitude" : -6.974210544706583,
+        "longitude" : -34.82843067738135
+  },
+  {
+        "key" : "riotinto",
+        "name" : "Novo Rumo - Rio Tinto",
+        "latitude" : -6.803493950315813,
+        "longitude" : -35.07811675753263
+  },
+  {
+        "key" : "sape",
+        "name" : "Novo Rumo - Sapé",
+        "latitude" : -7.080936320086854,
+        "longitude" : -35.23564365690063
+  },
+  {
+        "key" : "inga",
+        "name" : "Novo Rumo - Ingá",
+        "latitude" : -7.2853276508848674,
+        "longitude" : -35.61267441757932
+  },
+  {
+        "key" : "campina",
+        "name" : "Novo Rumo - Campina Grande",
+        "latitude" : -7.2172743,
+        "longitude" : -35.8856282
+  },
+  {
+        "key" : "esperanca",
+        "name" : "Novo Rumo - Esperança",
+        "latitude" : -7.01830085146598,
+        "longitude" : -35.85648096602767
+  },
+  {
+        "key" : "timbauba",
+        "name" : "Novo Rumo - Timbauba",
+        "latitude" : -7.494748528140838,
+        "longitude" : -35.318154794334184
+  },
+  {
+        "key" : "itambe",
+        "name" : "Novo Rumo - Itambé",
+        "latitude" : -7.402191445971764,
+        "longitude" : -35.12043223315214
+  },
+  {
+        "key" : "goiana",
+        "name" : "Novo Rumo - Goiana",
+        "latitude" : -7.551212080871669,
+        "longitude" : -34.99776966133569
+  },
+  {
+        "key" : "carpina",
+        "name" : "Novo Rumo - Carpina",
+        "latitude" : -7.78357356976821,
+        "longitude" : -35.25351200619239
+  },
+  /*POC*/
+  {
+    "key" : "pocifpb",
+    "name" : "POC - IFPB",
+    "latitude" : -7.134539473865713,
+    "longitude" : -34.87278634362976
+},
+{
+    "key" : "poccontrol",
+    "name" : "POC - Control Engenharia",
+    "latitude" : -7.181933588957987,
+    "longitude" : -34.86817264994615
+},
+{
+    "key" : "pocpf",
+    "name" : "POC - Policia Federal",
+    "latitude" : -7.100505332308822,
+    "longitude" : -34.84242365573078
+},
+{
+    "key" : "pocholandas",
+    "name" : "POC - Holandas",
+    "latitude" : -7.1171458176829105, 
+    "longitude" : -34.82452658988737
+},
+/*Fortigate*/
+{
+    "key" : "fginorpel",
+    "name" : "Fortigate - Inorpel",
+    "latitude" : -7.0119639773870475, 
+    "longitude" : -34.832852074546985
+},
+{
+    "key" : "fgwell",
+    "name" : "Fortigate - Well",
+    "latitude" : -7.0119639773870475,
+    "longitude" : -34.832852074546985
+},
+{
+    "key" : "fgacobrazilcge",
+    "name" : "Fortigate - Aço Brazil CGE",
+    "latitude" : -7.215582505169162,
+    "longitude" : -35.90358408803868
+},
+{
+    "key" : "fgacobrazilfor",
+    "name" : "Fortigate - Aço Brazil FOR",
+    "latitude" : -3.7552346816176305,
+    "longitude" : -38.54977297129781
+},
+{
+    "key" : "fgmiasgi",
+    "name" : "Fortigate - Marcos Inacio SGI",
+    "latitude" : -7.125719776247341,
+    "longitude" : -34.87476475820576
+},
+{
+    "key" : "fgcedrul",
+    "name" : "Fortigate - Cedrul",
+    "latitude" : -7.116660205045592,
+    "longitude" : -34.84129546526347
+},
+{
+    "key" : "fgaja",
+    "name" : "Fortigate - AJA Distribuidora",
+    "latitude" : -7.155643725218042,
+    "longitude" : -34.85631770248174
+},
+{
+    "key" : "fgalliance",
+    "name" : "Fortigate - Alliance Construtora",
+    "latitude" : -7.128793086921569,
+    "longitude" : -34.827867277231064
+},
+{
+    "key" : "fgfamene",
+    "name" : "Fortigate - FAMENE",
+    "latitude" : -7.205435756788089,
+    "longitude" : -34.85795081597191
+},
+{
+    "key" : "fghune",
+    "name" : "Fortigate - HUNE",
+    "latitude" : -7.130044803112612,
+    "longitude" : -34.87418791597231
+},
+{
+    "key" : "fgnewwork",
+    "name" : "Fortigate - New Work",
+    "latitude" : -7.103312680831413,
+    "longitude" : -34.847729831318574
+},
+{
+    "key" : "fgandrademarinho",
+    "name" : "Fortigate - Andrade Marinho",
+    "latitude" : -7.126265605812773,
+    "longitude" : -34.82892234291265
+},
+{
+    "key" : "fgcamaracabedelo",
+    "name" : "Fortigate - Câmara de Veriadores de Cabedelo",
+    "latitude" : -6.9725045444539555,
+    "longitude" : -34.83513094666543
+},
+{
+    "key" : "fgacert",
+    "name" : "Fortigate - Acert Online",
+    "latitude" : -23.535756984695706,
+    "longitude" : -46.52914493112218
+},
+{
+    "key" : "fgprojecta",
+    "name" : "Fortigate - Projecta Material de Construçãp",
+    "latitude" : -7.074320442050679,
+    "longitude" : -34.85010698899181
+},
+{
+    "key" : "fgmenorpreço",
+    "name" : "Fortigate - Menor Preço",
+    "latitude" : -7.106504369355648, 
+    "longitude" : -34.85642693170485
+},
+{
+    "key" : "fgfemina",
+    "name" : "Fortigate - Femina",
+    "latitude" : -7.118238078637403,
+    "longitude" : -34.8371689957104
+},
+{
+    "key" : "fgbigsaas",
+    "name" : "Fortigate - Big Saas",
+    "latitude" : -7.119736437784462,
+    "longitude" : -34.839708646613204
+},
+{
+    "key" : "fgbrazilatacado",
+    "name" : "Fortigate - Brazil Atacado",
+    "latitude" : -7.217265394789704,
+    "longitude" : -35.888108602481246
+},
+{
+    "key" : "fgmultimix",
+    "name" : "Fortigate - Mutimix",
+    "latitude" : -8.11864553299144,
+    "longitude" : -34.92255488069167
+},
+{
+    "key" : "fgfwnet",
+    "name" : "Fortigate - FW Net",
+    "latitude" : -23.512407622767938,
+    "longitude" : -46.66716200228611
+},{
+    "key" : "fgpmc",
+    "name" : "Fortigate - Prefeitura Municipal de Cabedelo",
+    "latitude" : -6.9764044105953635,
+    "longitude" : -34.8288348770566
+},
+{
+    "key" : "fggoorb",
+    "name" : "Fortigate - Go Orb",
+    "latitude" : -8.032843794215653,
+    "longitude" : -34.907892060149436
+},
+{
+    "key" : "fgiob",
+    "name" : "Fortigate - IOB Super Mercado",
+    "latitude" : -7.1072141020691575,
+    "longitude" : -34.83514160248201
+},
+{
+    "key" : "fgsalinasmaragogi",
+    "name" : "Fortigate - Salinas Maragogi",
+    "latitude" : -9.02793869352159,
+    "longitude" : -35.22770974479668
+},
+{
+    "key" : "fgsalinasmaceio",
+    "name" : "Fortigate - Salinas Maceio",
+    "latitude" : -9.531315370268397,
+    "longitude" : -35.607456560139205
+},
+{
+    "key" : "fgcozinharoccia",
+    "name" : "Fortigate - Cozinha Roccia",
+    "latitude" : -7.117397902534211,
+    "longitude" : -34.82454253131857
+},
+{
+    "key" : "fgmacarabertioga",
+    "name" : "Fortigate - Câmara de Bertioga",
+    "latitude" : -23.829174827292526,
+    "longitude" : -46.115184031116826
+},
+{
+    "key" : "fguniesp",
+    "name" : "Fortigate - UNIESP",
+    "latitude" : -7.094477901488566,
+    "longitude" : -34.84845606015503
+},
+{
+    "key" : "fg",
+    "name" : "Fortigate - ",
+    "latitude" : ,
+    "longitude" : 
+}
+]
