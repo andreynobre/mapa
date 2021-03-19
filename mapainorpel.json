@@ -324,18 +324,6 @@
         "longitude": -46.6583821
     },
     {
-        "key" : "fgautoclubmatriz",
-        "name" : "Fortigate - Auto Club Matriz",
-        "latitude" : -7.117312568038425, 
-        "longitude" : -34.844354176193036
-    },
-    {
-        "key" : "fgautoclubsul",
-        "name" : "Fortigate - Auto Club Sul",
-        "latitude" : -7.161480367742539,
-        "longitude" : -34.8194169716436
-    },
-    {
         "key" : "fgautoclubcge",
         "name" : "Fortigate - Auto Club CGE",
         "latitude" : -7.2344601,
