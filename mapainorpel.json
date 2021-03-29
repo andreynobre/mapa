@@ -481,14 +481,14 @@
     {
         "key": "mkajamanaus",
         "name": "Fortigate - AJA Distribuidora - Manaus",
-        "latitude": 2.824212,
-        "longitude": -60.7237271
+        "latitude": -3.1050964,
+        "longitude": -60.049764
     },
     {
         "key": "mkajaboavista",
         "name": "Fortigate - AJA Distribuidora - Boa Vista",
-        "latitude": -7.155643725218042,
-        "longitude": -34.85631770248174
+        "latitude": 2.824212,
+        "longitude": -60.7237271
     },
     {
         "key": "fgalliance",
