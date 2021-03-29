@@ -1,5 +1,4 @@
-[
-    {
+[{
         "key": "miamatriz",
         "name": "Marcos Inacio Advogados - João Pessoa - Centro",
         "latitude": -7.125852,
@@ -21,7 +20,7 @@
         "key": "miaalagoagrande",
         "name": "Marcos Inacio Advogados - Alagoa Grande",
         "latitude": -7.0387955,
-        "longitude": -35.6323606 
+        "longitude": -35.6323606
     },
     {
         "key": "miabayeux",
@@ -324,290 +323,314 @@
         "longitude": -46.6583821
     },
     {
-        "key" : "fgautoclubmatriz",
-        "name" : "Fortigate - Auto Club Matriz",
-        "latitude" : -7.117312568038425, 
-        "longitude" : -34.844354176193036
+        "key": "fgautoclubmatriz",
+        "name": "Fortigate - Auto Club Matriz",
+        "latitude": -7.117312568038425,
+        "longitude": -34.844354176193036
     },
     {
-        "key" : "fgautoclubsul",
-        "name" : "Fortigate - Auto Club Sul",
-        "latitude" : -7.161480367742539,
-        "longitude" : -34.8194169716436
+        "key": "fgautoclubsul",
+        "name": "Fortigate - Auto Club Sul",
+        "latitude": -7.161480367742539,
+        "longitude": -34.8194169716436
     },
     {
-        "key" : "fgautoclubcge",
-        "name" : "Fortigate - Auto Club CGE",
-        "latitude" : -7.2344601,
-        "longitude" : -35.8726598 
+        "key": "fgautoclubcge",
+        "name": "Fortigate - Auto Club CGE",
+        "latitude": -7.2344601,
+        "longitude": -35.8726598
     },
     {
-        "key" : "fgautoclubmatriz",
-        "name" : "Novo Rumo - Matriz",
-        "latitude" : -7.122414,
-        "longitude" : -34.878437
-  },
-  {
-        "key" : "fgautoclubmangabeira",
-        "name" : "Novo Rumo - Mangabeira",
-        "latitude" : -7.157525177564093,
-        "longitude" : -34.839962899398074
-  },
-  {
-        "key" : "nvcabedelo",
-        "name" : "Novo Rumo - Cabedelo",
-        "latitude" : -6.974210544706583,
-        "longitude" : -34.82843067738135
-  },
-  {
-        "key" : "nvriotinto",
-        "name" : "Novo Rumo - Rio Tinto",
-        "latitude" : -6.803493950315813,
-        "longitude" : -35.07811675753263
-  },
-  {
-        "key" : "nvsape",
-        "name" : "Novo Rumo - Sapé",
-        "latitude" : -7.080936320086854,
-        "longitude" : -35.23564365690063
-  },
-  {
-        "key" : "nvinga",
-        "name" : "Novo Rumo - Ingá",
-        "latitude" : -7.2853276508848674,
-        "longitude" : -35.61267441757932
-  },
-  {
-        "key" : "nvcampina",
-        "name" : "Novo Rumo - Campina Grande",
-        "latitude" : -7.2172743,
-        "longitude" : -35.8856282
-  },
-  {
-        "key" : "nvesperanca",
-        "name" : "Novo Rumo - Esperança",
-        "latitude" : -7.01830085146598,
-        "longitude" : -35.85648096602767
-  },
-  {
-        "key" : "nvtimbauba",
-        "name" : "Novo Rumo - Timbauba",
-        "latitude" : -7.494748528140838,
-        "longitude" : -35.318154794334184
-  },
-  {
-        "key" : "nvitambe",
-        "name" : "Novo Rumo - Itambé",
-        "latitude" : -7.402191445971764,
-        "longitude" : -35.12043223315214
-  },
-  {
-        "key" : "nvgoiana",
-        "name" : "Novo Rumo - Goiana",
-        "latitude" : -7.551212080871669,
-        "longitude" : -34.99776966133569
-  },
-  {
-        "key" : "nvcarpina",
-        "name" : "Novo Rumo - Carpina",
-        "latitude" : -7.78357356976821,
-        "longitude" : -35.25351200619239
-  },
-  {
-    "key" : "pocifpb",
-    "name" : "POC - IFPB",
-    "latitude" : -7.134539473865713,
-    "longitude" : -34.87278634362976
-},
-{
-    "key" : "poccontrol",
-    "name" : "POC - Control Engenharia",
-    "latitude" : -7.181933588957987,
-    "longitude" : -34.86817264994615
-},
-{
-    "key" : "pocpf",
-    "name" : "POC - Policia Federal",
-    "latitude" : -7.100505332308822,
-    "longitude" : -34.84242365573078
-},
-{
-    "key" : "pocholandas",
-    "name" : "POC - Holandas",
-    "latitude" : -7.1171458176829105, 
-    "longitude" : -34.82452658988737
-},
-{
-    "key" : "fginorpel",
-    "name" : "Fortigate - Inorpel",
-    "latitude" : -7.0119639773870475, 
-    "longitude" : -34.832852074546985
-},
-{
-    "key" : "fgwell",
-    "name" : "Fortigate - Well",
-    "latitude" : -7.0119639773870475,
-    "longitude" : -34.832852074546985
-},
-{
-    "key" : "fgacobrazilcge",
-    "name" : "Fortigate - Aço Brazil CGE",
-    "latitude" : -7.215582505169162,
-    "longitude" : -35.90358408803868
-},
-{
-    "key" : "fgacobrazilfor",
-    "name" : "Fortigate - Aço Brazil FOR",
-    "latitude" : -3.7552346816176305,
-    "longitude" : -38.54977297129781
-},
-{
-    "key" : "fgmiasgi",
-    "name" : "Fortigate - Marcos Inacio SGI",
-    "latitude" : -7.125719776247341,
-    "longitude" : -34.87476475820576
-},
-{
-    "key" : "fgcedrul",
-    "name" : "Fortigate - Cedrul",
-    "latitude" : -7.116660205045592,
-    "longitude" : -34.84129546526347
-},
-{
-    "key" : "fgaja",
-    "name" : "Fortigate - AJA Distribuidora",
-    "latitude" : -7.155643725218042,
-    "longitude" : -34.85631770248174
-},
-{
-    "key" : "fgalliance",
-    "name" : "Fortigate - Alliance Construtora",
-    "latitude" : -7.128793086921569,
-    "longitude" : -34.827867277231064
-},
-{
-    "key" : "fgfamene",
-    "name" : "Fortigate - FAMENE",
-    "latitude" : -7.205435756788089,
-    "longitude" : -34.85795081597191
-},
-{
-    "key" : "fghune",
-    "name" : "Fortigate - HUNE",
-    "latitude" : -7.130044803112612,
-    "longitude" : -34.87418791597231
-},
-{
-    "key" : "fgnewwork",
-    "name" : "Fortigate - New Work",
-    "latitude" : -7.103312680831413,
-    "longitude" : -34.847729831318574
-},
-{
-    "key" : "fgandrademarinho",
-    "name" : "Fortigate - Andrade Marinho",
-    "latitude" : -7.126265605812773,
-    "longitude" : -34.82892234291265
-},
-{
-    "key" : "fgcamaracabedelo",
-    "name" : "Fortigate - Câmara de Veriadores de Cabedelo",
-    "latitude" : -6.9725045444539555,
-    "longitude" : -34.83513094666543
-},
-{
-    "key" : "fgacert",
-    "name" : "Fortigate - Acert Online",
-    "latitude" : -23.535756984695706,
-    "longitude" : -46.52914493112218
-},
-{
-    "key" : "fgprojecta",
-    "name" : "Fortigate - Projecta Material de Construçãp",
-    "latitude" : -7.074320442050679,
-    "longitude" : -34.85010698899181
-},
-{
-    "key" : "fgmenorpreço",
-    "name" : "Fortigate - Menor Preço",
-    "latitude" : -7.106504369355648, 
-    "longitude" : -34.85642693170485
-},
-{
-    "key" : "fgfemina",
-    "name" : "Fortigate - Femina",
-    "latitude" : -7.118238078637403,
-    "longitude" : -34.8371689957104
-},
-{
-    "key" : "fgbigsaas",
-    "name" : "Fortigate - Big Saas",
-    "latitude" : -7.119736437784462,
-    "longitude" : -34.839708646613204
-},
-{
-    "key" : "fgbrazilatacado",
-    "name" : "Fortigate - Brazil Atacado",
-    "latitude" : -7.217265394789704,
-    "longitude" : -35.888108602481246
-},
-{
-    "key" : "fgmultimix",
-    "name" : "Fortigate - Mutimix",
-    "latitude" : -8.11864553299144,
-    "longitude" : -34.92255488069167
-},
-{
-    "key" : "fgfwnet",
-    "name" : "Fortigate - FW Net",
-    "latitude" : -23.512407622767938,
-    "longitude" : -46.66716200228611
-},{
-    "key" : "fgpmc",
-    "name" : "Fortigate - Prefeitura Municipal de Cabedelo",
-    "latitude" : -6.9764044105953635,
-    "longitude" : -34.8288348770566
-},
-{
-    "key" : "fggoorb",
-    "name" : "Fortigate - Go Orb",
-    "latitude" : -8.032843794215653,
-    "longitude" : -34.907892060149436
-},
-{
-    "key" : "fgiob",
-    "name" : "Fortigate - IOB Super Mercado",
-    "latitude" : -7.1072141020691575,
-    "longitude" : -34.83514160248201
-},
-{
-    "key" : "fgsalinasmaragogi",
-    "name" : "Fortigate - Salinas Maragogi",
-    "latitude" : -9.02793869352159,
-    "longitude" : -35.22770974479668
-},
-{
-    "key" : "fgsalinasmaceio",
-    "name" : "Fortigate - Salinas Maceio",
-    "latitude" : -9.531315370268397,
-    "longitude" : -35.607456560139205
-},
-{
-    "key" : "fgcozinharoccia",
-    "name" : "Fortigate - Cozinha Roccia",
-    "latitude" : -7.117397902534211,
-    "longitude" : -34.82454253131857
-},
-{
-    "key" : "fgmacarabertioga",
-    "name" : "Fortigate - Câmara de Bertioga",
-    "latitude" : -23.829174827292526,
-    "longitude" : -46.115184031116826
-},
-{
-    "key" : "fguniesp",
-    "name" : "Fortigate - UNIESP",
-    "latitude" : -7.094477901488566,
-    "longitude" : -34.84845606015503
-}
+        "key": "fgautoclubmatriz",
+        "name": "Novo Rumo - Matriz",
+        "latitude": -7.122414,
+        "longitude": -34.878437
+    },
+    {
+        "key": "fgautoclubmangabeira",
+        "name": "Novo Rumo - Mangabeira",
+        "latitude": -7.157525177564093,
+        "longitude": -34.839962899398074
+    },
+    {
+        "key": "nvcabedelo",
+        "name": "Novo Rumo - Cabedelo",
+        "latitude": -6.974210544706583,
+        "longitude": -34.82843067738135
+    },
+    {
+        "key": "nvriotinto",
+        "name": "Novo Rumo - Rio Tinto",
+        "latitude": -6.803493950315813,
+        "longitude": -35.07811675753263
+    },
+    {
+        "key": "nvsape",
+        "name": "Novo Rumo - Sapé",
+        "latitude": -7.080936320086854,
+        "longitude": -35.23564365690063
+    },
+    {
+        "key": "nvinga",
+        "name": "Novo Rumo - Ingá",
+        "latitude": -7.2853276508848674,
+        "longitude": -35.61267441757932
+    },
+    {
+        "key": "nvcampina",
+        "name": "Novo Rumo - Campina Grande",
+        "latitude": -7.2172743,
+        "longitude": -35.8856282
+    },
+    {
+        "key": "nvesperanca",
+        "name": "Novo Rumo - Esperança",
+        "latitude": -7.01830085146598,
+        "longitude": -35.85648096602767
+    },
+    {
+        "key": "nvtimbauba",
+        "name": "Novo Rumo - Timbauba",
+        "latitude": -7.494748528140838,
+        "longitude": -35.318154794334184
+    },
+    {
+        "key": "nvitambe",
+        "name": "Novo Rumo - Itambé",
+        "latitude": -7.402191445971764,
+        "longitude": -35.12043223315214
+    },
+    {
+        "key": "nvgoiana",
+        "name": "Novo Rumo - Goiana",
+        "latitude": -7.551212080871669,
+        "longitude": -34.99776966133569
+    },
+    {
+        "key": "nvcarpina",
+        "name": "Novo Rumo - Carpina",
+        "latitude": -7.78357356976821,
+        "longitude": -35.25351200619239
+    },
+    {
+        "key": "pocifpb",
+        "name": "POC - IFPB",
+        "latitude": -7.134539473865713,
+        "longitude": -34.87278634362976
+    },
+    {
+        "key": "poccontrol",
+        "name": "POC - Control Engenharia",
+        "latitude": -7.181933588957987,
+        "longitude": -34.86817264994615
+    },
+    {
+        "key": "pocpf",
+        "name": "POC - Policia Federal",
+        "latitude": -7.100505332308822,
+        "longitude": -34.84242365573078
+    },
+    {
+        "key": "pocholandas",
+        "name": "POC - Holandas",
+        "latitude": -7.1171458176829105,
+        "longitude": -34.82452658988737
+    },
+    {
+        "key": "fginorpel",
+        "name": "Fortigate - Inorpel",
+        "latitude": -7.0119639773870475,
+        "longitude": -34.832852074546985
+    },
+    {
+        "key": "fgwell",
+        "name": "Fortigate - Well",
+        "latitude": -7.0119639773870475,
+        "longitude": -34.832852074546985
+    },
+    {
+        "key": "fgacobrazilcge",
+        "name": "Fortigate - Aço Brazil CGE",
+        "latitude": -7.215582505169162,
+        "longitude": -35.90358408803868
+    },
+    {
+        "key": "fgacobrazilfor",
+        "name": "Fortigate - Aço Brazil FOR",
+        "latitude": -3.7552346816176305,
+        "longitude": -38.54977297129781
+    },
+    {
+        "key": "fgmiasgi",
+        "name": "Fortigate - Marcos Inacio SGI",
+        "latitude": -7.125719776247341,
+        "longitude": -34.87476475820576
+    },
+    {
+        "key": "fgcedrul",
+        "name": "Fortigate - Cedrul",
+        "latitude": -7.116660205045592,
+        "longitude": -34.84129546526347
+    },
+    {
+        "key": "fgaja",
+        "name": "Fortigate - AJA Distribuidora",
+        "latitude": -7.155643725218042,
+        "longitude": -34.85631770248174
+    },
+    {
+        "key": "mkajamanaus",
+        "name": "Fortigate - AJA Distribuidora - Manaus",
+        "latitude": 2.824212,
+        "longitude": -60.7237271
+    },
+    {
+        "key": "mkajaboavista",
+        "name": "Fortigate - AJA Distribuidora - Boa Vista",
+        "latitude": -7.155643725218042,
+        "longitude": -34.85631770248174
+    },
+    {
+        "key": "fgalliance",
+        "name": "Fortigate - Alliance Construtora",
+        "latitude": -7.128793086921569,
+        "longitude": -34.827867277231064
+    },
+    {
+        "key": "fgfamene",
+        "name": "Fortigate - FAMENE",
+        "latitude": -7.205435756788089,
+        "longitude": -34.85795081597191
+    },
+    {
+        "key": "fghune",
+        "name": "Fortigate - HUNE",
+        "latitude": -7.130044803112612,
+        "longitude": -34.87418791597231
+    },
+    {
+        "key": "fgnewwork",
+        "name": "Fortigate - New Work",
+        "latitude": -7.103312680831413,
+        "longitude": -34.847729831318574
+    },
+    {
+        "key": "fgandrademarinho",
+        "name": "Fortigate - Andrade Marinho",
+        "latitude": -7.126265605812773,
+        "longitude": -34.82892234291265
+    },
+    {
+        "key": "fgcamaracabedelo",
+        "name": "Fortigate - Câmara de Veriadores de Cabedelo",
+        "latitude": -6.9725045444539555,
+        "longitude": -34.83513094666543
+    },
+    {
+        "key": "fgcamarabertioga",
+        "name": "Fortigate - Câmara Municipal de Bertioga",
+        "latitude": -23.6502924,
+        "longitude": -46.6367161
+    },
+    {
+        "key": "fgacert",
+        "name": "Fortigate - Acert Online",
+        "latitude": -23.535756984695706,
+        "longitude": -46.52914493112218
+    },
+    {
+        "key": "fgpatacao",
+        "name": "Fortigate - Patacao",
+        "latitude": -23.5610635,
+        "longitude": -46.6567424
+    },
+    {
+        "key": "fgprojecta",
+        "name": "Fortigate - Projecta Material de Construçãp",
+        "latitude": -7.074320442050679,
+        "longitude": -34.85010698899181
+    },
+    {
+        "key": "fgmenorpreço",
+        "name": "Fortigate - Menor Preço",
+        "latitude": -7.106504369355648,
+        "longitude": -34.85642693170485
+    },
+    {
+        "key": "fgfemina",
+        "name": "Fortigate - Femina",
+        "latitude": -7.118238078637403,
+        "longitude": -34.8371689957104
+    },
+    {
+        "key": "fgbigsaas",
+        "name": "Fortigate - Big Saas",
+        "latitude": -7.119736437784462,
+        "longitude": -34.839708646613204
+    },
+    {
+        "key": "fgbrazilatacado",
+        "name": "Fortigate - Brazil Atacado",
+        "latitude": -7.217265394789704,
+        "longitude": -35.888108602481246
+    },
+    {
+        "key": "fgmultimix",
+        "name": "Fortigate - Mutimix",
+        "latitude": -8.11864553299144,
+        "longitude": -34.92255488069167
+    },
+    {
+        "key": "fgfwnet",
+        "name": "Fortigate - FW Net",
+        "latitude": -23.512407622767938,
+        "longitude": -46.66716200228611
+    }, {
+        "key": "fgpmc",
+        "name": "Fortigate - Prefeitura Municipal de Cabedelo",
+        "latitude": -6.9764044105953635,
+        "longitude": -34.8288348770566
+    },
+    {
+        "key": "fggoorb",
+        "name": "Fortigate - Go Orb",
+        "latitude": -8.032843794215653,
+        "longitude": -34.907892060149436
+    },
+    {
+        "key": "fgiob",
+        "name": "Fortigate - IOB Super Mercado",
+        "latitude": -7.1072141020691575,
+        "longitude": -34.83514160248201
+    },
+    {
+        "key": "fgsalinasmaragogi",
+        "name": "Fortigate - Salinas Maragogi",
+        "latitude": -9.02793869352159,
+        "longitude": -35.22770974479668
+    },
+    {
+        "key": "fgsalinasmaceio",
+        "name": "Fortigate - Salinas Maceio",
+        "latitude": -9.531315370268397,
+        "longitude": -35.607456560139205
+    },
+    {
+        "key": "fgcozinharoccia",
+        "name": "Fortigate - Cozinha Roccia",
+        "latitude": -7.117397902534211,
+        "longitude": -34.82454253131857
+    },
+    {
+        "key": "fgmacarabertioga",
+        "name": "Fortigate - Câmara de Bertioga",
+        "latitude": -23.829174827292526,
+        "longitude": -46.115184031116826
+    },
+    {
+        "key": "fguniesp",
+        "name": "Fortigate - UNIESP",
+        "latitude": -7.094477901488566,
+        "longitude": -34.84845606015503
+    }
 ]
