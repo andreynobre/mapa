@@ -419,6 +419,13 @@
         "longitude": -34.87278634362976
     },
     {
+        "key": "fgpbprev",
+        "name": "PBPREV",
+        "latitude": -7.11817,
+        "longitude": -34.86553
+    },
+ 
+    {
         "key": "poccontrol",
         "name": "POC - Control Engenharia",
         "latitude": -7.181933588957987,
