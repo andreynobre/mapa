@@ -606,6 +606,18 @@
         "longitude": -34.92255488069167
     },
     {
+        "key": "fgatacadaojpa",
+        "name": "Fortigate - Atacadão dos Presentes - Matriz",
+        "latitude": -7.01194,
+        "longitude": -34.83284
+    },
+    {
+        "key": "fgatacadaomamanguape",
+        "name": "Fortigate - Atacadão dos Presentes - Mamanguape",
+        "latitude": -6.83384,
+        "longitude": -35.11995
+    },
+    {
         "key": "fgfwnet",
         "name": "Fortigate - FW Net",
         "latitude": -23.512407622767938,
