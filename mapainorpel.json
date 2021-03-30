@@ -449,7 +449,25 @@
         "longitude": -34.832852074546985
     },
     {
-        "key": "fgacobrazilcge",
+        "key": "fgacobrazilcgemtz",
+        "name": "Fortigate - Aço Brazil CGE",
+        "latitude": -7.215582505169162,
+        "longitude": -35.90358408803868
+    },
+    {
+        "key": "fgacobrazilcge02",
+        "name": "Fortigate - Aço Brazil CGE",
+        "latitude": -7.215582505169162,
+        "longitude": -35.90358408803868
+    },
+    {
+        "key": "fgacobrazilcge04",
+        "name": "Fortigate - Aço Brazil CGE",
+        "latitude": -7.215582505169162,
+        "longitude": -35.90358408803868
+    },
+    {
+        "key": "fgacobrazilcge06",
         "name": "Fortigate - Aço Brazil CGE",
         "latitude": -7.215582505169162,
         "longitude": -35.90358408803868
