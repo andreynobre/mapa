@@ -516,6 +516,18 @@
         "longitude": -60.71783
     },
     {
+        "key": "mkajaguarabira",
+        "name": "Fortigate - AJA Distribuidora - Guarabira",
+        "latitude": -6.865939305297682,
+        "longitude": -35.491647724435445
+    },
+    {
+        "key": "mkajacaruaru",
+        "name": "Fortigate - AJA Distribuidora - Caruaru",
+        "latitude": -8.241888911042032,
+        "longitude": -35.97459074952574
+    },
+    {
         "key": "fgalliance",
         "name": "Fortigate - Alliance Construtora",
         "latitude": -7.128793086921569,
