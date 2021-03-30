@@ -457,20 +457,20 @@
     {
         "key": "fgacobrazilcge02",
         "name": "Fortigate - Aço Brazil CGE",
-        "latitude": -7.215582505169162,
-        "longitude": -35.90358408803868
+        "latitude": -7.21429,
+        "longitude": -35.88972
     },
     {
         "key": "fgacobrazilcge04",
         "name": "Fortigate - Aço Brazil CGE",
-        "latitude": -7.215582505169162,
-        "longitude": -35.90358408803868
+        "latitude": -7.22833,
+        "longitude": -35.89094
     },
     {
         "key": "fgacobrazilcge06",
-        "name": "Fortigate - Aço Brazil CGE",
-        "latitude": -7.215582505169162,
-        "longitude": -35.90358408803868
+        "name": "Fortigate - Aço Brazil JPA",
+        "latitude": -7.15741,
+        "longitude": -34.82174
     },
     {
         "key": "fgacobrazilfor",
