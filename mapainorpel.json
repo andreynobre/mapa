@@ -677,6 +677,12 @@
         "longitude": -46.115184031116826
     },
     {
+        "key": "fgcgbeng",
+        "name": "Fortigate - CBC Engenharia",
+        "latitude": -1.5156272239716895,
+        "longitude": -48.705338544413245
+    },
+    {
         "key": "fguniesp",
         "name": "Fortigate - UNIESP",
         "latitude": -7.094477901488566,
